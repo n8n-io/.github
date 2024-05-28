@@ -5,7 +5,7 @@ n8n is a low-code automation tool. With over 220 pre-built integrations and a ge
 - Check out <a href="https://github.com/n8n-io/n8n">our main project here.</a>
 - Interested in working for n8n? See our<a href="https://n8n.io/careers"> open positions</a>.
 - Learn more how to <a href="https://docs.n8n.io/hosting/">self-host n8n in our docs</a>. 
-- Want to quickly test out n8n? <a href="https://n8n.io/get-started/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">Download our desktop app</a> to see what the fuss is all about. 
+- Want to quickly test out n8n? <a href="https://n8n.io/get-started/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">Sign up for a free Cloud trial</a> to see what the fuss is all about. 
 - Not interested in hosting n8n yourself? We also offer <a href="https://n8n.io/cloud/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">n8n cloud</a> for a monthly fee. 
 - Both our team and our users have been building a <a href="https://n8n.io/workflows/?utm_medium=referral&utm_source=github.com&utm_campaign=readme">workflow template library</a> to help others easily get started with n8n automations. 
 
