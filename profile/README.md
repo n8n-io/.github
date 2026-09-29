@@ -1,6 +1,6 @@
 ### Hi there, this is n8n 👋
 
-n8n is the company behind n8n, the product. We're building a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a [fair-code license](https://faircode.io), n8n lets you build powerful automation while maintaining full control over your data and deployments.
+n8n is the company behind n8n, the product. We're building a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code. With 400+ integrations, native AI capabilities, and a [fair-code license](https://faircode.io), n8n lets you build powerful automation while maintaining full control over your data and deployments. You can find more information about our Community license in our [License FAQ](https://docs.n8n.io/n8n-community-license/community-license/license-faq) page.
 
 - Check out [our main project here](https://github.com/n8n-io/n8n).
 - Interested in working at n8n? See our [open positions](https://n8n.io/careers).
